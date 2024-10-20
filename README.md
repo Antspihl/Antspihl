@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Indrek</h1>
-<h3 align="center">A passionate backend developer in Estonia</h3>
+<h3 align="center">A passionate cyberr range engineer / software developer in Estonia</h3>
 
 - 🔭 I’m currently working on **Masters in CS** and **delivering cyberrange exercises**
 
